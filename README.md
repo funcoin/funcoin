@@ -4,8 +4,8 @@ If you want to build the wallet on Ubuntu, do the following:
 
 - install dependencies
 
-sudo apt-get update
-sudo apt-get install build-essential libboost-all-dev libcurl4-openssl-dev libdb5.3-dev libdb5.3++-dev git qt-sdk libminiupnpc-dev libssl-dev
+--sudo apt-get update
+--sudo apt-get install build-essential libboost-all-dev libcurl4-openssl-dev libdb5.3-dev libdb5.3++-dev git qt-sdk libminiupnpc-dev libssl-dev
 
 - clone this repo
 
