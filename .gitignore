@@ -21,3 +21,4 @@ qrc_*.cpp
 #mac specific
 .DS_Store
 build
+funcoin-qt
